@@ -85,6 +85,35 @@ O objetivo de um sistema de banco de dados é promover o isolamento do usuário 
 ***
 ## API
 
+API significa **A**pplication **P**rogramming **I**nterface ou Interface entre Aplicativo e Programação. É um conjunto de instruções e padrões de programação para acesso a um aplicativo de software. Uma empresa de software lança sua API para o público de modo que outros criadores de software possam desenvolver produtos acionados por esse serviço.
+
+Outra definição é: 
+"Se uma interface de um sistema é criada para que um usuário final possa usa-la a API é desenvolvida ara que um sistema possa usar as funcionalidades  de um outro sistema programaticamente. Ou seja, a API é interface ideal para que o sistema se comunique com um outro sistema compartilhando suas ações, ferramentas, padrões e protocolos. Gerando aí uma conversa de sistema para sistema" (Fonte: [API // Dicionário do Programador
+](https://www.youtube.com/watch?v=vGuqKIRWosk))
+
+### Como funciona? 
+
+A forma mais comum de realizar uma hoje API é usando REST (Representational State Transfer), que nada mais é que um estilo de arquitetura. A API utiliza o modelo cliente-servidor ([sim, o mesmo que vimos anteriomente](#modelo-cliente-servidor)) e quase sempre utiliza o protocolo HTTP.
+
+"A REST foi concebida para tratar objetos originados do servidor como recursos que podem ser criados, atualizados ou destruídos. Exemplo: uma postagem de blog em um banco de dados. A postagem pode ser criada através da utilização de um requerimento para criação de postagem, atualizado com um requerimento de atualização ou deletada com um requerimento de eliminação, e por aí vai.
+
+O que torna a REST incrível é o fato dela conseguir realizar todas as suas operações só por meio de HTTP, mais algum tipo de padrão ou formato aberto como JSON ou XML. Ou seja, REST pode ser virtualmente utilizada por qualquer linguagem de programação. Isso porque a maioria das linguagens boas podem fazer requerimentos HTTP de alguma forma, seja PHP, Javascript, Python, etc." (Fonte: https://usemobile.com.br/o-que-e-uma-api/)
+
+Saiba mais em: [API para iniciantes](https://apiparainiciantes.netlify.com/), [API // Dicionário do Programador
+](https://www.youtube.com/watch?v=vGuqKIRWosk), [O que é uma API?](https://usemobile.com.br/o-que-e-uma-api/)
+
+Exemplo de API: https://developers.mercadolivre.com.br/pt_br/guia-para-produtos/envio-de-produto
+
+## JSON
+
+JSON significa **J**avaScript **O**bject **N**otation. São dados salvos em um arquivo .json e consistem em uma série de pares chave / valor.
+
+```js
+
+{"chave" : "valor"}
+
+```
+
 
 ***
 ## Protocolos HTTP 
