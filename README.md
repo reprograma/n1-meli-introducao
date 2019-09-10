@@ -34,7 +34,7 @@ SERVIDOR WEB: softwere responsável por aceitar requisições HTTP de clientes.
     * Solicita um pedido/requisição ao servidor;
     * Espera e recebe por respostas;
     * Conecta somente a um servidor por vez;
-    * Necessário um software de aplicação especifico que possibilita a comunicação com o servidor;
+    * Necessário um software de aplicação específico  que possibilita a comunicação com o servidor;
     * Utiliza recurso de rede.
 
 * Característica do Servidor:
@@ -46,9 +46,9 @@ SERVIDOR WEB: softwere responsável por aceitar requisições HTTP de clientes.
 
 ### Vantagens
 
-* Divisão de responsábilidades. Com computadores independentes a manutenção a ser feita em uma aplicação é muito melhor;
+* Divisão de responsabilidades. Com computadores independentes a manutenção a ser feita em uma aplicação é muito melhor;
 * Todos os dados são armazenados nos servidores que possuem, geralmente, uma segurança muito maior do que a maioria dos clientes;
-* Com a centralização dos dados a atualização dees se torna mais fácil;
+* Com a centralização dos dados a atualização deles se torna mais fácil;
 * Funciona com vários clientes diferentes;
 * Grande dispnibilidade de tecnológias avançadas de cliente-servidor e projetadas para garantir a segurança, facilidade de interface do usuário e facilidade de uso.
 
@@ -60,7 +60,7 @@ SERVIDOR WEB: softwere responsável por aceitar requisições HTTP de clientes.
 ***
 ## Banco de dados
 
-Banco de dados ou base de dados são uma coleção organizada de dados que se relacionam com o objetivo de criar algum sentido/informação durante um estudo ou pesquiza. Basicamente, a grosso modo, é onde ficam os dados armazenados do servidor.
+Banco de dados ou base de dados são uma coleção organizada de dados que se relacionam com o objetivo de criar algum sentido/informação durante um estudo ou pesquisa. Basicamente, a grosso modo, é onde ficam os dados armazenados do servidor.
 
 O DB(Data Base) é operado através de um **Sistemas Gerenciadores de Bancos de Dados (SGBD)** que surgiu na década de 70. Nos anos 80 surgiu **SGBD relacional** e ainda muito utilizada no mercadoa atualmente. Outo tipo é o **SGBD Orientado a Objetos**, para quando sua estrutura ou as aplicações que o utilizam mudam constantemente. O SGBD é um sistema muito utilizado em muitas aplicações e são o método preferido de armazenamento/recuperação de dados/informações.
 
@@ -88,7 +88,7 @@ O objetivo de um sistema de banco de dados é promover o isolamento do usuário 
 API significa **A**pplication **P**rogramming **I**nterface ou Interface entre Aplicativo e Programação. É um conjunto de instruções e padrões de programação para acesso a um aplicativo de software. Uma empresa de software lança sua API para o público de modo que outros criadores de software possam desenvolver produtos acionados por esse serviço.
 
 Outra definição é: 
-"Se uma interface de um sistema é criada para que um usuário final possa usa-la a API é desenvolvida ara que um sistema possa usar as funcionalidades  de um outro sistema programaticamente. Ou seja, a API é interface ideal para que o sistema se comunique com um outro sistema compartilhando suas ações, ferramentas, padrões e protocolos. Gerando aí uma conversa de sistema para sistema" (Fonte: [API // Dicionário do Programador
+"Se uma interface de um sistema é criada para que um usuário final possa usá-la a API é desenvolvida para que um sistema possa usar as funcionalidades  de um outro sistema programaticamente. Ou seja, a API é interface ideal para que o sistema se comunique com um outro sistema compartilhando suas ações, ferramentas, padrões e protocolos. Gerando aí uma conversa de sistema para sistema" (Fonte: [API // Dicionário do Programador
 ](https://www.youtube.com/watch?v=vGuqKIRWosk))
 
 ### Como funciona? 
