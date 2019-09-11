@@ -20,8 +20,6 @@ N1 | BackEnd | 2019 | Semana 1 | Introdução
 * Frontend vs Backend
 * O mundo BackEnd  
 
-
-
 ## Aula 04
 * [Git e GitHub](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201)
 
