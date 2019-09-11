@@ -16,9 +16,11 @@ N1 | BackEnd | 2019 | Semana 1 | Introdução
 * [Protocolos HTTP](https://github.com/reprograma/n1-meli-introducao/tree/aula_02#protocolos-http)
 
 ## AUla 03
-* O mundo Backend 
-* O que podemos construir no Backend?
-* Requisições
+* Revisão
+* Frontend vs Backend
+* O mundo BackEnd  
+
+
 
 ## Aula 04
 * Git e GitHub
