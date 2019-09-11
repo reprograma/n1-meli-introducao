@@ -15,7 +15,7 @@ N1 | BackEnd | 2019 | Semana 1 | Introdução
 * [API](https://github.com/reprograma/n1-meli-introducao/tree/aula_02#api)
 * [Protocolos HTTP](https://github.com/reprograma/n1-meli-introducao/tree/aula_02#protocolos-http)
 
-## AUla 03
+## [Aula 03](https://github.com/reprograma/n1-meli-introducao/tree/aula_03)
 * Revisão
 * Frontend vs Backend
 * O mundo BackEnd  
@@ -23,7 +23,7 @@ N1 | BackEnd | 2019 | Semana 1 | Introdução
 
 
 ## Aula 04
-* Git e GitHub
+* [Git e GitHub](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201)
 
 
 ## Aula 05
