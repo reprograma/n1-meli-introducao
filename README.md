@@ -1,31 +1,56 @@
-# n1-meli-introducao
-N1 | BackEnd | 2019 | Semana 1 | Introdução
-
-## [AULA 01](https://github.com/reprograma/n1-meli-introducao/tree/aula_01#aula-01)
-* [Um pouco de história](https://github.com/reprograma/n1-meli-introducao/tree/aula_01#um-pouco-de-história)
-* [O que é a internet?](https://github.com/reprograma/n1-meli-introducao/tree/aula_01#O-QUE-É-A-INTERNET)
-    * [Modelo TCP/IP](https://github.com/reprograma/n1-meli-introducao/tree/aula_01#modelo-tcpip)
-    * [World Wide Web](https://github.com/reprograma/n1-meli-introducao/tree/aula_01#world-wide-web)
-
-* [Iot](https://github.com/reprograma/n1-meli-introducao/tree/aula_01#internet-das-coisas---iot)
-
-## [Aula 02](https://github.com/reprograma/n1-meli-introducao/tree/aula_02#aula-02)
-* [Modelo Cliente-servidor](https://github.com/reprograma/n1-meli-introducao/tree/aula_02#modelo-cliente-servidor)
-* [Banco de dados](https://github.com/reprograma/n1-meli-introducao/tree/aula_02#banco-de-dados)
-* [API](https://github.com/reprograma/n1-meli-introducao/tree/aula_02#api)
-* [Protocolos HTTP](https://github.com/reprograma/n1-meli-introducao/tree/aula_02#protocolos-http)
-
-## [Aula 03](https://github.com/reprograma/n1-meli-introducao/tree/aula_03)
-* Revisão
-* Frontend vs Backend
-* O mundo BackEnd  
-
-## Aula 04
-* [Git e GitHub](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201)
-
-
-## Aula 05
+Aprensentação de slides: [Aula 05](https://docs.google.com/presentation/d/1yIgtcC_R4bqaOCf-5dtfKv70R32vFXvG1rFJkiq2gAg/edit#slide=id.g5fee01733f_0_11)
+***
+# Aula 05
 * Frontend
-* HTML semântico
+* HTML 
 * CSS 
 * Mão na massa!
+
+***
+## Frontend
+
+Como já visto anteriomente o progamador Frontend desenvolve tecnologias no client-side. Ele utiliza normalsmente HTML, CSS e JS para desenvolver um aplicativo.
+
+Aqui iremos abordar e ensinar um poucos das tecnológias utilizadas por eles.
+
+## HTML
+
+**H**yper**t**ext **M**arkup **L**anguage  ou Linguagem de Marcação de HiperTexto, em português, é o bloco de construção mais básico da web. Ele é utilizado para estruturar uma página web e seu coonteúdo.
+
+"HTML não é uma linguagem de programação; é uma linguagem de marcação, usada para definir a estrutura do seu conteúdo. HTML consiste de uma série de elementos , que você usa para delimitar ou agrupar diferentes partes do conteúdo para que ele apareça ou atue de determinada maneira. " (Fonte: https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico)
+
+Já que o HTML serve para dar significado para a informação, como ele faz isso? Simples: ele marca a informação com as tags.
+
+Exemplo:
+
+```HTML
+
+<p>Eu sou um parágrafo</p>
+
+```
+
+As tags HTML tbm possuem atributos declados dentro da tag de abretura
+
+```HTML
+
+<p atributo="valor">Eu sou um parágrafo</p>
+
+
+```
+***
+## CSS 
+
+**C**ascading **S**tyle **S**heets ou Folhas de Estilo em Cascata é uma linguagem de estilo usada para descrever a apresentação de um documento escrito em HTML 
+
+É uma liguagem descrita dessa forma: 
+
+````CSS
+
+seletor {
+
+    propriedade : valor;
+
+}
+
+```
+
